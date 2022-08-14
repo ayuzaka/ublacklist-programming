@@ -1,3 +1,4 @@
+*//*.senseshare.jp/*
 *://*.1-notes.com/*
 *://*.1st-copywriting.com/*
 *://*.acceliv.com/*
@@ -17,8 +18,17 @@
 *://*.codelikes.com/*
 *://*.confrage.jp/*
 *://*.coron.tech/*
+*://*.god48.com/*
+*://*.ikedahayato.com/*
 *://*.onityanzyuku.com/*
 *://*.pythonchan.com/*
 *://*.shiro-changelife.com/*
+*://*.shu-naka-blog.com/*
 *://*.stkn-job.net/*
+*://*.teratail.com/*
+*://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
+*://*.zero-plus.io/media/*
+*://*e-words.jp/*
+*://*usefuledge.com/*
+*://www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
