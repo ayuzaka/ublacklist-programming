@@ -26,6 +26,7 @@
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
 *://*.stkn-job.net/*
+*://*.syncer.jp/*
 *://*.teratail.com/*
 *://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
