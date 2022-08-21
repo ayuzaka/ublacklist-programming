@@ -21,6 +21,7 @@
 *://*.god48.com/*
 *://*.ikedahayato.com/*
 *://*.onityanzyuku.com/*
+*://*.pisuke-code.com/*
 *://*.pythonchan.com/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
