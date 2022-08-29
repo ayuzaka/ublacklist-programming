@@ -1,0 +1,2 @@
+*://*.mandarinnote.com/*
+*://*.www.car-edo.com/*
