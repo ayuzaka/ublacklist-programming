@@ -20,6 +20,8 @@
 *://*.coron.tech/*
 *://*.god48.com/*
 *://*.ikedahayato.com/*
+*://*.kasumiblog.org/*
+*://*.lala-rockets.com/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
 *://*.pythonchan.com/*
