@@ -1,2 +1,3 @@
+*://*.chiebukuro.yahoo.co.jp/*
 *://*.mandarinnote.com/*
 *://*.www.car-edo.com/*
