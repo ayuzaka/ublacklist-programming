@@ -21,6 +21,7 @@
 *://*.god48.com/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
+*://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
@@ -40,4 +41,3 @@
 *://*.zero-plus.io/media/*
 *://*e-words.jp/*
 *://www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
-*://*.jsstudy.hatenablog.com/*
