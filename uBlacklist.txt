@@ -19,9 +19,12 @@
 *://*.confrage.jp/*
 *://*.coron.tech/*
 *://*.god48.com/*
+*://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
 *://*.kasumiblog.org/*
+*://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
+*://*.maruomatsuoka.me/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
 *://*.pythonchan.com/*
@@ -30,9 +33,11 @@
 *://*.stkn-job.net/*
 *://*.syncer.jp/*
 *://*.teratail.com/*
+*://*.usefuledge.com/*
+*://*.worthliv.com/*
 *://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
 *://*.zero-plus.io/media/*
 *://*e-words.jp/*
-*://*usefuledge.com/*
 *://www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
+*://*.jsstudy.hatenablog.com/*
