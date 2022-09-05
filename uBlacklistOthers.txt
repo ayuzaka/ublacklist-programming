@@ -1,3 +1,4 @@
 *://*.chiebukuro.yahoo.co.jp/*
 *://*.mandarinnote.com/*
+*://*.otokonokakurega.com/*
 *://*.www.car-edo.com/*
