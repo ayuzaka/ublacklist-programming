@@ -23,6 +23,7 @@
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
 *://*.itra.co.jp/webmedia/*
+*://*.itsakura.com/*
 *://*.japan-design.jp/*
 *://*.javadrive.jp/*
 *://*.jsstudy.hatenablog.com/*
