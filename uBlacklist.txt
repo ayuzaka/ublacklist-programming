@@ -52,8 +52,8 @@
 *://*.webpia.jp/*
 *://*.worthliv.com/*
 *://*.www.modis.co.jp/candidate/insight/*
+*://*.www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
 *://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
 *://*.zero-plus.io/media/*
 *://*.zukucode.com/*
-*://www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
