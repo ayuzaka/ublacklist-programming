@@ -61,6 +61,7 @@
 *://*.teratail.com/*
 *://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
+*://*.vivi.dyndns.org/*
 *://*.wakuwakubank.com/*
 *://*.web-engineer-wiki.com/*
 *://*.webdesignleaves.com/*
