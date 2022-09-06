@@ -29,6 +29,7 @@
 *://*.kasumiblog.org/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
+*://*.maku77.github.io/*
 *://*.maruomatsuoka.me/*
 *://*.nekoroblog.com/*
 *://*.note.affi-sapo-sv.com/*
