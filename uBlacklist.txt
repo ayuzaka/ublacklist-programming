@@ -19,6 +19,7 @@
 *://*.confrage.jp/*
 *://*.coron.tech/*
 *://*.creativevillage.ne.jp/*
+*://*.dream-javascript-seminar.com/*
 *://*.god48.com/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
