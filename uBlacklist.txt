@@ -57,6 +57,7 @@
 *://*.pori2.net/*
 *://*.press.monaca.io/*
 *://*.programmingnote.jp/*
+*://*.propansystem.net/*
 *://*.pythonchan.com/*
 *://*.rfs.jp/*
 *://*.sasasorato.com/*
