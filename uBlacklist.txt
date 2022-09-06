@@ -48,6 +48,7 @@
 *://*.kosapi.com/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
+*://*.lovee7.blog.fc2.com/*
 *://*.maku77.github.io/*
 *://*.maruomatsuoka.me/*
 *://*.nekoroblog.com/*
