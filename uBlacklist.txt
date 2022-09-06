@@ -30,6 +30,7 @@
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
 *://*.maruomatsuoka.me/*
+*://*.nekoroblog.com/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
 *://*.pori2.net/*
