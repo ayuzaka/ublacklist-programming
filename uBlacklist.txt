@@ -31,6 +31,7 @@
 *://*.itsakura.com/*
 *://*.japan-design.jp/*
 *://*.javadrive.jp/*
+*://*.js.studio-kingdom.com/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kaworu.jpn.org/*
