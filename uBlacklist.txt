@@ -28,6 +28,7 @@
 *://*.maruomatsuoka.me/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
+*://*.programmingnote.jp/*
 *://*.pythonchan.com/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
