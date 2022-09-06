@@ -38,6 +38,7 @@
 *://*.pori2.net/*
 *://*.programmingnote.jp/*
 *://*.pythonchan.com/*
+*://*.sasasorato.com/*
 *://*.senseshare.jp/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
