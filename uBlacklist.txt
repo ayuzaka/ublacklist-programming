@@ -53,6 +53,7 @@
 *://*.maruomatsuoka.me/*
 *://*.nekoroblog.com/*
 *://*.note.affi-sapo-sv.com/*
+*://*.nslabs.jp/*
 *://*.onityanzyuku.com/*
 *://*.phpjavascriptroom.com/*
 *://*.pisuke-code.com/*
