@@ -22,6 +22,7 @@
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
 *://*.itra.co.jp/webmedia/*
+*://*.japan-design.jp/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kuzumisan.com/*
