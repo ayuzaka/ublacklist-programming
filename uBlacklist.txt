@@ -44,6 +44,7 @@
 *://*.pori2.net/*
 *://*.programmingnote.jp/*
 *://*.pythonchan.com/*
+*://*.rfs.jp/*
 *://*.sasasorato.com/*
 *://*.senseshare.jp/*
 *://*.shiro-changelife.com/*
