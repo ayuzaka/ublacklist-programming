@@ -57,6 +57,7 @@
 *://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
 *://*.web-engineer-wiki.com/*
+*://*.webdesignleaves.com/*
 *://*.webpia.jp/*
 *://*.worthliv.com/*
 *://*.wp-p.info/*
