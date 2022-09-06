@@ -22,6 +22,7 @@
 *://*.creativevillage.ne.jp/*
 *://*.dream-javascript-seminar.com/*
 *://*.e-words.jp/*
+*://*.freefielder.jp/*
 *://*.god48.com/*
 *://*.gray-code.com/*
 *://*.hakuhin.jp/*
