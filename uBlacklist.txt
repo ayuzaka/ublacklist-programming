@@ -31,6 +31,7 @@
 *://*.lala-rockets.com/*
 *://*.maruomatsuoka.me/*
 *://*.nekoroblog.com/*
+*://*.note.affi-sapo-sv.com/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
 *://*.pori2.net/*
