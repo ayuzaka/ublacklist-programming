@@ -37,6 +37,7 @@
 *://*.teratail.com/*
 *://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
+*://*.webpia.jp/*
 *://*.worthliv.com/*
 *://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
