@@ -62,6 +62,7 @@
 *://*.note.affi-sapo-sv.com/*
 *://*.nslabs.jp/*
 *://*.onityanzyuku.com/*
+*://*.pcmanabu.com/*
 *://*.phpjavascriptroom.com/*
 *://*.pisuke-code.com/*
 *://*.pori2.net/*
