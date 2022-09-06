@@ -52,6 +52,7 @@
 *://*.shu-naka-blog.com/*
 *://*.stkn-job.net/*
 *://*.syncer.jp/*
+*://*.techiedelight.com/*
 *://*.teratail.com/*
 *://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
