@@ -45,6 +45,7 @@
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
 *://*.pori2.net/*
+*://*.press.monaca.io/*
 *://*.programmingnote.jp/*
 *://*.pythonchan.com/*
 *://*.rfs.jp/*
