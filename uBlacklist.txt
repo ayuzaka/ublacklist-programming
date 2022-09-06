@@ -16,6 +16,7 @@
 *://*.breezegroup.co.jp/*
 *://*.code.ooaks.co.jp/*
 *://*.codebegin-store.com/*
+*://*.codechacha.com/*
 *://*.codelab.website/*
 *://*.codelikes.com/*
 *://*.confrage.jp/*
