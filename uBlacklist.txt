@@ -15,6 +15,7 @@
 *://*.brainlog.jp/*
 *://*.breezegroup.co.jp/*
 *://*.code-database.com/*
+*://*.code-magagine.com/*
 *://*.code.ooaks.co.jp/*
 *://*.codebegin-store.com/*
 *://*.codechacha.com/*
