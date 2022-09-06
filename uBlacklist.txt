@@ -21,6 +21,7 @@
 *://*.god48.com/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
+*://*.itra.co.jp/webmedia/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kuzumisan.com/*
