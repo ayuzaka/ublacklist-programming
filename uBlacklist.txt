@@ -14,6 +14,7 @@
 *://*.book-school.com/*
 *://*.brainlog.jp/*
 *://*.breezegroup.co.jp/*
+*://*.code-database.com/*
 *://*.code.ooaks.co.jp/*
 *://*.codebegin-store.com/*
 *://*.codechacha.com/*
