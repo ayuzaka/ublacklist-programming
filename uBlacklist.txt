@@ -57,6 +57,7 @@
 *://*.teratail.com/*
 *://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
+*://*.wakuwakubank.com/*
 *://*.web-engineer-wiki.com/*
 *://*.webdesignleaves.com/*
 *://*.webpia.jp/*
