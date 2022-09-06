@@ -32,6 +32,7 @@
 *://*.maruomatsuoka.me/*
 *://*.onityanzyuku.com/*
 *://*.pisuke-code.com/*
+*://*.pori2.net/*
 *://*.programmingnote.jp/*
 *://*.pythonchan.com/*
 *://*.shiro-changelife.com/*
