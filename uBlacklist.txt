@@ -35,6 +35,7 @@
 *://*.stkn-job.net/*
 *://*.syncer.jp/*
 *://*.teratail.com/*
+*://*.udemy.benesse.co.jp/*
 *://*.usefuledge.com/*
 *://*.worthliv.com/*
 *://*.www.smpl-rfrns.net/*
