@@ -59,6 +59,7 @@
 *://*.web-engineer-wiki.com/*
 *://*.webdesignleaves.com/*
 *://*.webpia.jp/*
+*://*.webzoit.net/*
 *://*.worthliv.com/*
 *://*.wp-p.info/*
 *://*.www.modis.co.jp/candidate/insight/*
