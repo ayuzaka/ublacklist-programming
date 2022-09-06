@@ -39,6 +39,7 @@
 *://*.usefuledge.com/*
 *://*.webpia.jp/*
 *://*.worthliv.com/*
+*://*.www.modis.co.jp/candidate/insight/*
 *://*.www.smpl-rfrns.net/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
 *://*.zero-plus.io/media/*
