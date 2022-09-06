@@ -23,6 +23,7 @@
 *://*.god48.com/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
+*://*.it-biz.online/*
 *://*.itra.co.jp/webmedia/*
 *://*.itsakura.com/*
 *://*.japan-design.jp/*
