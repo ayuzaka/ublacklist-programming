@@ -3,6 +3,7 @@
 *://*.acceliv.com/*
 *://*.acthouse.net/*
 *://*.agent-grow.com/self20percent/*
+*://*.alphasis.info/*
 *://*.amateur-engineer.com/*
 *://*.aonanablog.com/*
 *://*.asalworld.com/*
