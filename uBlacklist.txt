@@ -70,6 +70,7 @@
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
 *://*.softel.co.jp/blogs/tech/*
+*://*.softwarenote.info/*
 *://*.stkn-job.net/*
 *://*.syncer.jp/*
 *://*.techiedelight.com/*
