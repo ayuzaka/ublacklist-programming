@@ -79,4 +79,5 @@
 *://*.zero-plus.io/media/*
 *://*.zukucode.com/*
 *://*.zunouissiki.com/*
+*://*shanabrian.com/*
 *://dev-k.hatenablog.com/*
