@@ -23,6 +23,7 @@
 *://*.confrage.jp/*
 *://*.coron.tech/*
 *://*.creativevillage.ne.jp/*
+*://*.dianxnao.com/*
 *://*.dream-javascript-seminar.com/*
 *://*.e-words.jp/*
 *://*.eclair.blog/*
