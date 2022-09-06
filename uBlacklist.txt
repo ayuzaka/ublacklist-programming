@@ -21,6 +21,7 @@
 *://*.dream-javascript-seminar.com/*
 *://*.e-words.jp/*
 *://*.god48.com/*
+*://*.hakuhin.jp/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
 *://*.it-biz.online/*
