@@ -48,6 +48,7 @@
 *://*.pythonchan.com/*
 *://*.rfs.jp/*
 *://*.sasasorato.com/*
+*://*.se-tomo.com/*
 *://*.senseshare.jp/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
