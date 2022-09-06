@@ -25,6 +25,7 @@
 *://*.hakuhin.jp/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
+*://*.ipentec.com/*
 *://*.it-biz.online/*
 *://*.itra.co.jp/webmedia/*
 *://*.itsakura.com/*
