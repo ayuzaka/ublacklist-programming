@@ -51,6 +51,7 @@
 *://*.lovee7.blog.fc2.com/*
 *://*.maku77.github.io/*
 *://*.maruomatsuoka.me/*
+*://*.mebee.info/*
 *://*.nekoroblog.com/*
 *://*.note.affi-sapo-sv.com/*
 *://*.nslabs.jp/*
