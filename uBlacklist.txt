@@ -18,6 +18,7 @@
 *://*.codelikes.com/*
 *://*.confrage.jp/*
 *://*.coron.tech/*
+*://*.creativevillage.ne.jp/*
 *://*.god48.com/*
 *://*.hat0mugi.com/*
 *://*.ikedahayato.com/*
