@@ -29,6 +29,7 @@
 *://*.javadrive.jp/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
+*://*.knowledge.cpi.ad.jp/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
 *://*.maku77.github.io/*
