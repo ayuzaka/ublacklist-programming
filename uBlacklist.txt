@@ -43,6 +43,7 @@
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kaworu.jpn.org/*
+*://*.kino-code.com/*
 *://*.knowledge.cpi.ad.jp/*
 *://*.kosapi.com/*
 *://*.kuzumisan.com/*
