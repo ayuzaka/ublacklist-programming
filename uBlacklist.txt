@@ -51,6 +51,7 @@
 *://*.usefuledge.com/*
 *://*.webpia.jp/*
 *://*.worthliv.com/*
+*://*.wp-p.info/*
 *://*.www.modis.co.jp/candidate/insight/*
 *://*.www.osaka-kyoiku.ac.jp/~joho/html5_ref/*
 *://*.www.smpl-rfrns.net/*
