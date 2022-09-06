@@ -60,6 +60,7 @@
 *://*.senseshare.jp/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
+*://*.softel.co.jp/blogs/tech/*
 *://*.stkn-job.net/*
 *://*.syncer.jp/*
 *://*.techiedelight.com/*
