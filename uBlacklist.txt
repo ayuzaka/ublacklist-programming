@@ -34,6 +34,7 @@
 *://*.gray-code.com/*
 *://*.hakuhin.jp/*
 *://*.hat0mugi.com/*
+*://*.hidekazu-blog.com/*
 *://*.ikedahayato.com/*
 *://*.into-the-program.com/*
 *://*.ipentec.com/*
