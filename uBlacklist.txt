@@ -39,6 +39,7 @@
 *://*.kasumiblog.org/*
 *://*.kaworu.jpn.org/*
 *://*.knowledge.cpi.ad.jp/*
+*://*.kosapi.com/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
 *://*.maku77.github.io/*
