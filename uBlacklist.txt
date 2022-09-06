@@ -23,6 +23,7 @@
 *://*.ikedahayato.com/*
 *://*.itra.co.jp/webmedia/*
 *://*.japan-design.jp/*
+*://*.javadrive.jp/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
 *://*.kuzumisan.com/*
