@@ -80,6 +80,7 @@
 *://*.shanabrian.com/*
 *://*.shiro-changelife.com/*
 *://*.shu-naka-blog.com/*
+*://*.skillhub.jp/blogs/*
 *://*.softel.co.jp/blogs/tech/*
 *://*.softwarenote.info/*
 *://*.stkn-job.net/*
