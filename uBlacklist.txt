@@ -17,6 +17,8 @@
 *://*.book-school.com/*
 *://*.brainlog.jp/*
 *://*.breezegroup.co.jp/*
+*://*.cly7796.net/*
+*://*.cman.jp/*
 *://*.code-database.com/*
 *://*.code-magagine.com/*
 *://*.code.ooaks.co.jp/*
@@ -103,6 +105,8 @@
 *://*.newsite-make.com/*
 *://*.note.affi-sapo-sv.com/*
 *://*.nslabs.jp/*
+*://*.officetakec.com/*
+*://*.omosirofuturestory.com/*
 *://*.onityanzyuku.com/*
 *://*.openspc2.org/*
 *://*.orange-log.com/*
