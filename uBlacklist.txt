@@ -125,6 +125,7 @@
 *://*.propansystem.net/*
 *://*.pythonchan.com/*
 *://*.rfs.jp/*
+*://*.runoob.com/*
 *://*.sasasorato.com/*
 *://*.se-tomo.com/*
 *://*.see-youa.com/*
