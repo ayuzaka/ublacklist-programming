@@ -20,6 +20,7 @@
 *://*.book-school.com/*
 *://*.brainlog.jp/*
 *://*.breezegroup.co.jp/*
+*://*.chappilog.com/*
 *://*.cly7796.net/*
 *://*.cman.jp/*
 *://*.code-database.com/*
@@ -118,6 +119,7 @@
 *://*.officetakec.com/*
 *://*.omosirofuturestory.com/*
 *://*.onityanzyuku.com/*
+*://*.onsalofan.com/*
 *://*.openspc2.org/*
 *://*.orange-log.com/*
 *://*.paya02.com/*
@@ -196,6 +198,9 @@
 *://*.yujiromx.com/*
 *://*.yuta-u.com/*
 *://*.zero-plus.io/media/*
+*://*.zsksalon.com/*
 *://*.zukucode.com/*
 *://*.zunouissiki.com/*
 *://dev-k.hatenablog.com/*
+title/(坂内\s*学|マナブ - YouTube|マナブ｜note)/
+title/(雑食系エンジニアTV|雑食系エンジニアサロン|雑食系エンジニアKENTA|勝又\s*健太)/
