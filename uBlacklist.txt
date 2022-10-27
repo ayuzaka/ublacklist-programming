@@ -137,6 +137,7 @@
 *://*.prograshi.com/*
 *://*.progtext.net/*
 *://*.propansystem.net/*
+*://*.protogram.jp/*
 *://*.pythonchan.com/*
 *://*.rfs.jp/*
 *://*.rich-engineer.com/*
