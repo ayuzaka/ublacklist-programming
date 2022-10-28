@@ -122,6 +122,7 @@
 *://*.onsalofan.com/*
 *://*.openspc2.org/*
 *://*.orange-log.com/*
+*://*.oshiete.goo.ne.jp/*
 *://*.paya02.com/*
 *://*.pcmanabu.com/*
 *://*.phpjavascriptroom.com/*
