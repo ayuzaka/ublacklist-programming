@@ -46,6 +46,7 @@
 *://*.cosmeticagoutier.com/ja/*
 *://*.creativevillage.ne.jp/*
 *://*.cryptocurrency-student.com/*
+*://*.cya.sakura.ne.jp/*
 *://*.deha.co.jp/magazine/*
 *://*.delftstack.com/ja/*
 *://*.dev-memo.net/*
@@ -104,6 +105,7 @@
 *://*.kosapi.com/*
 *://*.kuzumisan.com/*
 *://*.lala-rockets.com/*
+*://*.learning.zealseeds.com/*
 *://*.libro.tuyano.com/*
 *://*.lovee7.blog.fc2.com/*
 *://*.lvl-lvl.com/*
@@ -200,6 +202,7 @@
 *://*.vbnettips.blog.shinobi.jp/*
 *://*.vivi.dyndns.org/*
 *://*.wakuwakubank.com/*
+*://*.web-camp.io/magazine/*
 *://*.web-dev.tech/*
 *://*.web-engineer-wiki.com/*
 *://*.web.plus-idea.net/*
