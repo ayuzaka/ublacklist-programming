@@ -147,6 +147,7 @@
 *://*.se-tomo.com/*
 *://*.see-youa.com/*
 *://*.segakuin.com/*
+*://*.senews.jp/*
 *://*.senseshare.jp/*
 *://*.shanabrian.com/*
 *://*.shimablogs.com/*
