@@ -219,6 +219,7 @@
 *://*.xenophy.com/learning_place/*
 *://*.xn--qcka9i7azcwa9b7.seesaa.net/*
 *://*.yacchi-engineer.com/*
+*://*.yisu.com/*
 *://*.youboku.tokyo/*
 *://*.yu-teck.com/*
 *://*.yujiromx.com/*
