@@ -203,6 +203,7 @@
 *://*.wakuwakubank.com/*
 *://*.web-camp.io/magazine/*
 *://*.web-dev.tech/*
+*://*.web-development-kb-ja.site/*
 *://*.web-engineer-wiki.com/*
 *://*.web.plus-idea.net/*
 *://*.webdesignleaves.com/*
