@@ -29,6 +29,8 @@
 *://*.brainlog.jp/*
 *://*.breezegroup.co.jp/*
 *://*.buntadayo.com/*
+*://*.camp.i-standard.jp/*
+*://*.camp.trainocate.co.jp/magazine/*
 *://*.chappilog.com/*
 *://*.cly7796.net/*
 *://*.cman.jp/*
@@ -49,6 +51,7 @@
 *://*.cya.sakura.ne.jp/*
 *://*.deha.co.jp/magazine/*
 *://*.delftstack.com/ja/*
+*://*.dev-k.hatenablog.com/*
 *://*.dev-memo.net/*
 *://*.devsakaso.com/*
 *://*.dianxnao.com/*
@@ -64,6 +67,7 @@
 *://*.fukatsu.tech/*
 *://*.god48.com/*
 *://*.gray-code.com/*
+*://*.gurutaka-log.com/*
 *://*.hakuhin.jp/*
 *://*.hat0mugi.com/*
 *://*.hidekazu-blog.com/*
@@ -210,6 +214,7 @@
 *://*.webpia.jp/*
 *://*.webst8.com/blog/*
 *://*.webstyle.work/*
+*://*.webukatu.com/*
 *://*.webzoit.net/*
 *://*.wk-partners.co.jp/*
 *://*.worthliv.com/*
@@ -229,9 +234,5 @@
 *://*.zsksalon.com/*
 *://*.zukucode.com/*
 *://*.zunouissiki.com/*
-*://camp.i-standard.jp/*
-*://camp.trainocate.co.jp/magazine/*
-*://dev-k.hatenablog.com/*
-*://webukatu.com/*
 title/(坂内\s*学|マナブ - YouTube|マナブ｜note)/
 title/(雑食系エンジニアTV|雑食系エンジニアサロン|雑食系エンジニアKENTA|勝又\s*健太)/
