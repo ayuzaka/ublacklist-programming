@@ -114,6 +114,7 @@
 *://*.lvl-lvl.com/*
 *://*.macoblog.com/*
 *://*.maku77.github.io/*
+*://*.manablog.org/*
 *://*.manacal.co.jp/*
 *://*.maruomatsuoka.me/*
 *://*.marupeke296.com/*
@@ -234,5 +235,6 @@
 *://*.zsksalon.com/*
 *://*.zukucode.com/*
 *://*.zunouissiki.com/*
-title/(坂内\s*学|マナブ - YouTube|マナブ｜note)/
+title/(テックキャンプ|オンラインサロン)/
+title/(坂内\s*学|マナブ - YouTube|マナブ｜note|manabubannai)/
 title/(雑食系エンジニアTV|雑食系エンジニアサロン|雑食系エンジニアKENTA|勝又\s*健太)/
