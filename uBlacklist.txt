@@ -95,6 +95,7 @@
 *://*.javascript.pc-users.net/*
 *://*.javascript.programmer-reference.com/*
 *://*.jp.code-dict.com/*
+*://*.jpdebug.com/*
 *://*.js.studio-kingdom.com/*
 *://*.jsstudy.hatenablog.com/*
 *://*.kasumiblog.org/*
