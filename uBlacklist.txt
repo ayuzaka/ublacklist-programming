@@ -132,6 +132,7 @@
 *://*.newsite-make.com/*
 *://*.note.affi-sapo-sv.com/*
 *://*.nslabs.jp/*
+*://*.office-obata.com/*
 *://*.officeskstyle.net/*
 *://*.officetakec.com/*
 *://*.omosirofuturestory.com/*
